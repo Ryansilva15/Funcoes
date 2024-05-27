@@ -38,7 +38,6 @@ fun caracteres(str : String): Int{
 }
 fun cubo(n: Int):Int{
     return n * n * n
-    milhasKm(100f)
 }
 fun milhasKm(milhas: Float): Float{
     return milhas * 1.6f
